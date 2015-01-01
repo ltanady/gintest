@@ -1,0 +1,29 @@
+{
+	"ImportPath": "gintest",
+	"GoVersion": "go1.3.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gin-gonic/gin",
+			"Comment": "v0.4-8-g3b079bb",
+			"Rev": "3b079bb6f79ae501e73a5401c41b589f6616b61e"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-28-gcebeb35",
+			"Rev": "cebeb3599d51814753350e87cd21f24b3ddaa66e"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Rev": "0219fb1cc033bda7ed78c90ed933fb3ecdb6f46f"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Rev": "91101d17f079ca3c05c6e00354e914a35aa0d3e7"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-8-g3e3efe5",
+			"Rev": "3e3efe51a0c4b23e817075438703cb15bd58c1a8"
+		}
+	]
+}
